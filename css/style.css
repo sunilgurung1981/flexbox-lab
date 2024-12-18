@@ -191,3 +191,7 @@
     margin-top: 0;
     
   }
+
+  .card-footer h3 {
+    margin: 0;
+  }
